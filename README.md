@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Computer Science Student | A passionate web development<br><br>📫 How to reach me: **lokmax2@gmail.com** <br><br>📄 My Resume [https://drive.google.com/file/d/15uoSBwCsjvcm7CcdR1Mje5jLbjq8r--d/view?usp=drivesdk](https://drive.google.com/file/d/15uoSBwCsjvcm7CcdR1Mje5jLbjq8r--d/view?usp=drivesdk)</p>
+<p align="center">Computer Science Student | A passionate web development<br><br>📫 How to reach me: **lokmax2@gmail.com** 📄 My Resume [https://drive.google.com/file/d/15uoSBwCsjvcm7CcdR1Mje5jLbjq8r--d/view?usp=drivesdk](https://drive.google.com/file/d/15uoSBwCsjvcm7CcdR1Mje5jLbjq8r--d/view?usp=drivesdk)</p>
 
 ###
 
