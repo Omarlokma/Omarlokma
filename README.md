@@ -15,7 +15,7 @@
 ### A passionate Web developer  
 📫 How to reach me lokmax2@gmail.com
 
-📄 Know about my experiences [my resume](https://drive.google.com/file/d/15uoSBwCsjvcm7CcdR1Mje5jLbjq8r--d/view?usp=drivesdk)  
+📄 Know about my experiences [My CV](https://drive.google.com/file/d/10Rnp0ujDfd209RXdWFgSJShiSB-2dj1K/view?usp=drivesdkview?usp=drivesdk)  
   
 
 <br/>  
