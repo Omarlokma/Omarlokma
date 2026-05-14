@@ -1,50 +1,108 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20omar...%20and%20I'm%20a%20software%20developer.&fontSize=25&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Omar Lokma</h1>
+<h3 align="center">Frontend Developer | React.js Developer | Full-Stack Learner</h3>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Omarlokma/Omarlokma/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/omar-lokma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/Omarlokma">
+    <img src="https://komarev.com/ghpvc/?username=Omarlokma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="lokmax2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+</p>
+
+---
+
+### 🚀 About Me
+
+I’m a Frontend Developer and Computer Science student who enjoys building clean, responsive, and scalable web applications.  
+I work mainly with **HTML, CSS, JavaScript, TypeScript, React, and Bootstrap**, and I’m currently expanding into **Full-Stack Development**.
+
+- 🔭 Currently working as a **Frontend Developer Trainee at DEPI**
+- 🎓 Computer Science student at **Tanta University**
+- 🧩 Strong interest in **component-based UI**, **REST APIs**, and **performance optimization**
+- 🤖 Passionate about **AI** and continuous learning
+- 🤝 Comfortable working in teams, researching, and solving problems collaboratively
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,python,nodejs,express,docker" />
+</p>
+
+**Frontend:** React.js, HTML5, CSS3, Bootstrap  
+**Programming:** JavaScript (ES6+), TypeScript, Python, C++  
+**Tools:** Git, GitHub, Docker  
+**Concepts:** RESTful APIs, Responsive Design, OOP, Data Structures & Algorithms
+
+---
+
+### 📌 Featured Projects
+
+#### 🌍 Countries Explorer
+A responsive country encyclopedia built with **React 19** and the **REST Countries API**.  
+Features search, region filtering, detailed country pages, and **Dark/Light mode**.
+
+#### 🎬 Movie App
+A React-based movie app with **dynamic routing**, **pagination**, **wishlist functionality**, and live data from the **TMDB API**.
+
+#### ✅ To-Do App
+A modern task manager built with **React + Vite**, featuring a clean UI, **local storage persistence**, and theme switching.
+
+#### 🧮 GPA Calculator Web App
+A simple but practical app built with **HTML, CSS, and JavaScript** to help students calculate GPA based on courses and credit hours.
+
+---
+
+### 🧠 Currently Learning
+
+- Full-Stack Development
+- Node.js and Express
+- Backend integration with frontend apps
+- Docker and deployment basics
+- Stronger system design and architecture habits
+
+---
+
+### 🌱 Beyond Code
+
+- Research and academic growth
+- Teamwork and communication
+- Continuous self-improvement
+- Learning new technologies
+- Working on practical projects that solve real problems
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarlokma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarlokma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlokma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:lokmax2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omar-lokma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Omarlokma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Building thoughtful interfaces, one component at a time.”</i>
+</p>
+
 
 ###
 
