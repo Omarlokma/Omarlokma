@@ -36,21 +36,6 @@ I work mainly with **HTML, CSS, JavaScript, TypeScript, React, and Bootstrap**, 
 
 ---
 
-### 📌 Featured Projects
-
-#### 🌍 Countries Explorer
-A responsive country encyclopedia built with **React 19** and the **REST Countries API**.  
-Features search, region filtering, detailed country pages, and **Dark/Light mode**.
-
-#### 🎬 Movie App
-A React-based movie app with **dynamic routing**, **pagination**, **wishlist functionality**, and live data from the **TMDB API**.
-
-#### ✅ To-Do App
-A modern task manager built with **React + Vite**, featuring a clean UI, **local storage persistence**, and theme switching.
-
-#### 🧮 GPA Calculator Web App
-A simple but practical app built with **HTML, CSS, and JavaScript** to help students calculate GPA based on courses and credit hours.
-
 ---
 
 ### 🧠 Currently Learning
