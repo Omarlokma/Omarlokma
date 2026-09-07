@@ -1,97 +1,240 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Omar Lokma</h1>
-<h3 align="center">Frontend Developer | React.js Developer | Full-Stack Learner</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Omarlokma">
-    <img src="https://komarev.com/ghpvc/?username=Omarlokma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<img src="./banner.svg" width="100%" alt="Omar Lokma Banner"/>
+
+<br/>
+
+# 👋 Hi, I'm Omar Lokma
+
+### Frontend Developer · React.js Developer · Full-Stack Learner
+
+<br/>
+
+<a href="https://github.com/Omarlokma">
+  <img src="https://img.shields.io/github/followers/Omarlokma?style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://github.com/Omarlokma">
+  <img src="https://img.shields.io/github/stars/Omarlokma?style=for-the-badge&logo=github&label=Stars" />
+</a>
+<a href="mailto:lokmax2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-181717?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 About Me
+## ⚡ About Me
 
-I’m a Frontend Developer and Computer Science student who enjoys building clean, responsive, and scalable web applications.  
-I work mainly with **HTML, CSS, JavaScript, TypeScript, React, and Bootstrap**, and I’m currently expanding into **Full-Stack Development**.
+I'm a **Frontend Developer** and Computer Science student passionate about building clean, responsive, and maintainable web applications.
 
-- 🔭 Currently working as a **Frontend Developer Trainee at DEPI**
+I enjoy turning ideas into polished interfaces while focusing on **component architecture, API integration, responsive design, and user experience**.
+
+```text
+Frontend Development
+        │
+        ├── React.js
+        ├── JavaScript / TypeScript
+        ├── Responsive UI
+        └── REST API Integration
+        │
+        ▼
+Full-Stack Development
+        │
+        ├── Node.js
+        ├── Express
+        ├── Docker
+        └── AWS
+```
+
+### Currently
+
+- 🔭 Frontend Developer Trainee at **DEPI**
 - 🎓 Computer Science student at **Tanta University**
-- 🧩 Strong interest in **component-based UI**, **REST APIs**, and **performance optimization**
-- 🤖 Passionate about **AI** and continuous learning
-- 🤝 Comfortable working in teams, researching, and solving problems collaboratively
+- ⚛️ Building applications with **React & TypeScript**
+- 🔌 Working with **REST APIs and backend integration**
+- 🐳 Learning **Docker & deployment**
+- ☁️ Exploring **AWS & Cloud fundamentals**
+- 🧠 Improving my **System Design & Software Architecture**
+- 🤝 Enjoying collaborative software development
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,python,nodejs,express,docker" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </p>
 
-**Frontend:** React.js, HTML5, CSS3, Bootstrap  
-**Programming:** JavaScript (ES6+), TypeScript, Python, C++  
-**Tools:** Git, GitHub, Docker  
-**Concepts:** RESTful APIs, Responsive Design, OOP, Data Structures & Algorithms
+### Backend & Programming
 
----
-
----
-
-### 🧠 Currently Learning
-
-- Full-Stack Development
-- Node.js and Express
-- Backend integration with frontend apps
-- Docker and deployment basics
-- Stronger system design and architecture habits
-
----
-
-### 🌱 Beyond Code
-
-- Research and academic growth
-- Teamwork and communication
-- Continuous self-improvement
-- Learning new technologies
-- Working on practical projects that solve real problems
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarlokma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarlokma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Tools & Cloud
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlokma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="mailto:lokmax2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/omar-lokma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Omarlokma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omarlokma&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarlokma&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Omarlokma&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“Building thoughtful interfaces, one component at a time.”</i>
-</p>
+## 🐍 Contribution Activity
 
+<div align="center">
 
-###
+<img src="https://raw.githubusercontent.com/Omarlokma/Omarlokma/output/snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-<p align="left">At the end we are just a story😎</p>
+</div>
 
-###
+---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Movie App
+
+A responsive movie application focused on clean UI, reusable components and API integration.
+
+**Stack**
+
+`React` `JavaScript` `REST API`
+
+</td>
+
+<td width="50%">
+
+### ✅ To-Do App
+
+A simple and responsive task management application built with a focus on usability and clean frontend structure.
+
+**Stack**
+
+`React` `JavaScript` `CSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 GPA Calculator
+
+A practical web application for calculating GPA with a simple and responsive interface.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 💻 More Projects
+
+I'm continuously building and experimenting with new projects while expanding my skills across frontend, backend and cloud technologies.
+
+**Explore**
+
+<a href="https://github.com/Omarlokma?tab=repositories">
+View all repositories →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+```text
+React & TypeScript
+        ↓
+Node.js & Express
+        ↓
+REST APIs & Backend Integration
+        ↓
+Docker & Deployment
+        ↓
+AWS Cloud
+        ↓
+System Design
+```
+
+</div>
+
+---
+
+## 🎯 Engineering Focus
+
+| Area | Focus |
+|---|---|
+| 🎨 Frontend | React, TypeScript, Responsive UI |
+| 🧩 Architecture | Components, Clean Code, Design Patterns |
+| 🔌 Integration | REST APIs, Backend Integration |
+| ☁️ Cloud | AWS Fundamentals |
+| 🐳 DevOps | Docker & Deployment |
+| 🧠 Computer Science | OOP, DSA, System Design |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Omarlokma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omar-lokma">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lokmax2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Omarlokma&label=Profile%20Views&style=for-the-badge" />
+
+<br/><br/>
+
+### Building thoughtful interfaces, one component at a time. 🚀
+
+</div>
