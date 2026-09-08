@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Omar Lokma
 
-### Frontend Developer · React.js Developer · Full-Stack Learner
+### Software Engineer
 
 <br/>
 
@@ -50,9 +50,6 @@ Full-Stack Development
 ```
 
 ### Currently
-
-- 🔭 Frontend Developer Trainee at **DEPI**
-- 🎓 Computer Science student at **Tanta University**
 - ⚛️ Building applications with **React & TypeScript**
 - 🔌 Working with **REST APIs and backend integration**
 - 🐳 Learning **Docker & deployment**
@@ -114,7 +111,6 @@ Full-Stack Development
 
 ---
 
-## 🚀 Featured Projects
 
 <table>
 <tr>
